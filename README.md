@@ -1,16 +1,12 @@
-## Hi there 👋
+- 👋 Hi, I’m @andrescabrera, same Andres as @andrescabrera-esportunity.
+- 👀 I’m interested in eSports stuff, gaming events, gaming social networks, and software architecture in general.
+- 🌱 I have designed and built eSportunity from Scratch. I’m currently learning AI, LLMS, among other topics.
+- 💞️ I’m looking to collaborate on Open Source projects around eSports.
+- 📫 How to reach me > andres.cabrera at esportunity.com
+- 😄 Pronouns: HE/HIM
+- ⚡ Fun fact: I live in a Caribbean Island with my Dachsung dog, Spunky.
 
-<!--
-**andrescabrera/andrescabrera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!---
+andrescabrera-esportunity/andrescabrera-esportunity is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
